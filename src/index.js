@@ -17,4 +17,4 @@ app.use(
 );
 app.use(router);
 
-app.listen(PORT, () => console.log(`🔥 Server started at https://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`🔥 Server started at http://localhost:${PORT}`));
